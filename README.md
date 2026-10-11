@@ -86,7 +86,19 @@ Higher thresholds can miss suspicious behaviors.
 
 The results illustrate rule behavior on this sample dataset; they do not establish real-world detection accuracy.
 
+## Screenshots
 
+### Detection Result
+
+![Detection Result](screenshots/detection-result.png)
+
+### Alert Output
+
+![Alert Output](screenshots/alert-output.png)
+
+### Threshold Testing
+
+![Threshold Testing](screenshots/threshold-testing.png)
 
 ## Limitations
 
